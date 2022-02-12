@@ -21,6 +21,10 @@ Run:
 ```
 python3 main.py
 ```
+Install requeriments:
+```
+pip install -r requeriments.txt
+```
 If you are using Windows:
 ```
 python main.py
