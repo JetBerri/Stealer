@@ -1,5 +1,5 @@
 # Stealer
-Fat-Stealer is a stealer that allows you to open a Backdoor in the victims machine and grab some info from Discord such as token, IP, name... Simple stealer in Alpha phase wirtten in python. More features will be available soon.
+Fat-Stealer is a stealer that allows you to open a Backdoor in the victims machine and grab some info from Discord such as token, IP, name... Simple stealer in Alpha phase wirtten in python. More features will be available soon. Beta Version
 
 # Terms
 - [@] Use this tool only for educational purposes.
