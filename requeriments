@@ -1,0 +1,12 @@
+socket
+colorama
+subprocess
+re
+json
+base64
+urllib.request
+threading
+time
+sys
+tk
+pygame
