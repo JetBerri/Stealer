@@ -13,7 +13,7 @@ git clone https://github.com/JetBerri/Stealer
 ```
 Go to the directory:
 ```
-cd PirateStealer/src/injector
+cd Stealer
 ```
 Edit the requeried files
 
