@@ -4,7 +4,7 @@ Fat-Stealer is a stealer that allows you to open a Backdoor in the victims machi
 # Terms
 - [@] Use this tool only for educational purposes.
 - [@] Reselling is proibihited.
-- [@] You can't skid this project.
+- [@] You can't skid this project, don't be a skid :)
 
 # Installation
 Clone the repo:
@@ -55,7 +55,7 @@ You can dm on discord: !Jet#0728
 Please notify me all the "undocumented features" (bugs)
 
 # Disclaimer
-I'm not responsable of any of your acts, this tool has been created with educational purposes.
+I'm not responsible of any of your acts, this tool has been created for educational purposes.
 
 # Screenshoots
 ![image](https://user-images.githubusercontent.com/84512017/153729688-f4eeade1-5de6-4d88-bece-cf0e7d5c209d.png)
