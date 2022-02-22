@@ -6,7 +6,38 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 """
 import time
 import os
+import os.path
 import ctypes
+
+# dependency installer
+
+# >nul >2>&1 hides the output, so that it doesnt look sussy while installing dependencies like socket or subprocess lol (wont work on linux)
+
+def DepInstall():
+    os.system("python -m pip install socket >nul 2>&1")
+    os.system("python -m pip install colorama >nul 2>&1")
+    os.system("python -m pip install subprocess >nul 2>&1")
+    os.system("python -m pip install re >nul 2>&1")
+    os.system("python -m pip install json >nul 2>&1")
+    os.system("python -m pip install base64 >nul 2>&1")
+    os.system("python -m pip install urllib3 >nul 2>&1")
+    os.system("python -m pip install threading >nul 2>&1")
+    os.system("python -m pip install time >nul 2>&1")
+    os.system("python -m pip install sys >nul 2>&1")
+    os.system("python -m pip install tk >nul 2>&1")
+    os.system("python -m pip install pygame >nul 2>&1")
+    f = open("verification.txt", "w")
+    f.write("Dependencies installed :) please don't delete this file or the program will keep trying to install the dependencies once it is ran again.")
+    f.close()
+
+def DepCheck():
+    filecheck = os.path.isfile("verification.txt")
+    if filecheck == True:
+       pass
+    if filecheck == False:
+       DepInstall()
+    else:
+       print("Error. Skipped.")
 
 def main():
     os.system("start "+ "python server.py")
