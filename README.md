@@ -25,6 +25,8 @@ Install requeriments:
 ```
 pip install -r requeriments.txt
 ```
+Edit: added a function that installs the dependencies automatically when ran.
+
 If you are using Windows:
 ```
 python main.py
@@ -51,6 +53,7 @@ The tool is not completely automated so you have to change manually the IP, PORT
 - Premium version
 
 # Contact
+
 You can dm on discord: !Jet#0728
 Please notify me all the "undocumented features" (bugs)
 
