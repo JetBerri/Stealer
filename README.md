@@ -51,6 +51,10 @@ The tool is not completely automated so you have to change manually the IP, PORT
 - Keylogger
 - Premium version
 
+# How to disguise?
+
+So as we all know, Python is quite difficult to obfuscate. However, there are a few methods. First of all you can encode it (base64, etc.) + compile it. Or just compile it without encodings `python -m py_compile malware.py` (or use pyinstaller `pip install pyinstaller`, `pyinstaller -w --onefile malware.py`. If it's encoded and compiled, it'll be more difficult to find an actual code there, or extract anything else. If it's just compiled, the victim might be able to find something useful, but it still makes it a bit difficult, he won't be able to see the actual code.
+
 # Contact
 
 You can dm on discord: !Jet#0728
