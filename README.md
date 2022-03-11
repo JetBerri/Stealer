@@ -38,7 +38,7 @@ The tool is not completely automated so you have to change manually the IP, PORT
 - Allows to send windows commands through a Server script.
 - Grab discord token.
 - Black Screen
-- Only 6/64 Detections in Virustotal.com (Please do not upoload it there).
+- Only 6/64 Detections in Virustotal.com (Please do not upload it there).
 - Grab IP.
 - Who am I function.
 - Get payment method.
