@@ -57,7 +57,7 @@ So as we all know, Python is quite difficult to obfuscate. However, there are a 
 
 # Contact
 
-You can dm on discord: !Jet#0728
+You can dm on discord: !Jet#0010
 Please notify me all the "undocumented features" (bugs)
 
 # Disclaimer
