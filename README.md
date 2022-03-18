@@ -1,3 +1,7 @@
+# Update
+
+Good news! This repo will be soon updated, everything will be re-written to C and we will ad more features, also less detectable for AV! (Will add a Keylogger, password stealer...)
+
 # Stealer
 Fat-Stealer is a stealer that allows you to open a Backdoor in the victims machine and grab some info from Discord such as token, IP, name. When the victim opens it a black screen will appear... Simple stealer in Beta phase wirtten in python. More features will be available soon. 
 
